@@ -1,5 +1,5 @@
 [
-    {
+  {
     "_id": 1,
     "title": "Unlocking Android",
     "isbn": "1933988673",
@@ -10,18 +10,20 @@
     "status": "PUBLISH",
     "authors": ["W. Frank Ableson", "Charlie Collins", "Robi Sen"],
     "categories": ["Open Source", "Mobile"]
-}, {
+  },
+  {
     "_id": 2,
     "title": "Android in Action, Second Edition",
     "isbn": "1935182722",
-    "pageCount": 592,    
+    "pageCount": 592,
     "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/ableson2.jpg",
     "shortDescription": "Android in Action, Second Edition is a comprehensive tutorial for Android developers. Taking you far beyond \"Hello Android,\" this fast-paced book puts you in the driver's seat as you learn important architectural concepts and implementation strategies. You'll master the SDK, build WebKit apps using HTML 5, and even learn to extend or replace Android's built-in features by building useful and intriguing examples. ",
     "longDescription": "When it comes to mobile apps, Android can do almost anything   and with this book, so can you! Android runs on mobile devices ranging from smart phones to tablets to countless special-purpose gadgets. It's the broadest mobile platform available.    Android in Action, Second Edition is a comprehensive tutorial for Android developers. Taking you far beyond \"Hello Android,\" this fast-paced book puts you in the driver's seat as you learn important architectural concepts and implementation strategies. You'll master the SDK, build WebKit apps using HTML 5, and even learn to extend or replace Android's built-in features by building useful and intriguing examples. ",
     "status": "PUBLISH",
     "authors": ["W. Frank Ableson", "Robi Sen"],
     "categories": ["Java"]
-}, {
+  },
+  {
     "_id": 3,
     "title": "Specification by Example",
     "isbn": "1617290084",
@@ -31,7 +33,8 @@
     "status": "PUBLISH",
     "authors": ["Gojko Adzic"],
     "categories": ["Software Engineering"]
-}, {
+  },
+  {
     "_id": 4,
     "title": "Flex 3 in Action",
     "isbn": "1933988746",
@@ -41,7 +44,8 @@
     "status": "PUBLISH",
     "authors": ["Tariq Ahmed with Jon Hirschi", "Faisal Abid"],
     "categories": ["Internet"]
-}, {
+  },
+  {
     "_id": 5,
     "title": "Flex 4 in Action",
     "isbn": "1935182420",
@@ -51,28 +55,31 @@
     "status": "PUBLISH",
     "authors": ["Tariq Ahmed", "Dan Orlando", "John C. Bland II", "Joel Hooks"],
     "categories": ["Internet"]
-}, {
+  },
+  {
     "_id": 6,
     "title": "Collective Intelligence in Action",
     "isbn": "1933988312",
-    "pageCount": 425,    
+    "pageCount": 425,
     "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/alag.jpg",
     "longDescription": "There's a great deal of wisdom in a crowd, but how do you listen to a thousand people talking at once  Identifying the wants, needs, and knowledge of internet users can be like listening to a mob.    In the Web 2.0 era, leveraging the collective power of user contributions, interactions, and feedback is the key to market dominance. A new category of powerful programming techniques lets you discover the patterns, inter-relationships, and individual profiles   the collective intelligence   locked in the data people leave behind as they surf websites, post blogs, and interact with other users.    Collective Intelligence in Action is a hands-on guidebook for implementing collective-intelligence concepts using Java. It is the first Java-based book to emphasize the underlying algorithms and technical implementation of vital data gathering and mining techniques like analyzing trends, discovering relationships, and making predictions. It provides a pragmatic approach to personalization by combining content-based analysis with collaborative approaches.    This book is for Java developers implementing collective intelligence in real, high-use applications. Following a running example in which you harvest and use information from blogs, you learn to develop software that you can embed in your own applications. The code examples are immediately reusable and give the Java developer a working collective intelligence toolkit.    Along the way, you work with, a number of APIs and open-source toolkits including text analysis and search using Lucene, web-crawling using Nutch, and applying machine learning algorithms using WEKA and the Java Data Mining (JDM) standard.",
     "status": "PUBLISH",
     "authors": ["Satnam Alag"],
     "categories": ["Internet"]
-}, {
+  },
+  {
     "_id": 7,
     "title": "Zend Framework in Action",
     "isbn": "1933988320",
-    "pageCount": 432,    
+    "pageCount": 432,
     "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/allen.jpg",
     "shortDescription": "Zend Framework in Action is a comprehensive tutorial that shows how to use the Zend Framework to create web-based applications and web services. This book takes you on an over-the-shoulder tour of the components of the Zend Framework as you build a high quality, real-world web application.",
     "longDescription": "From rather humble beginnings as the Personal Home Page scripting language, PHP has found its way into almost every server, corporation, and dev shop in the world. On an average day, somewhere between 500,000 and 2 million coders do something in PHP. Even when you use a well-understood language like PHP, building a modern web application requires tools that decrease development time and cost while improving code quality. Frameworks such as Ruby-on-Rails and Django have been getting a lot of attention as a result.     For PHP coders, the Zend Framework offers that same promise without the need to move away from PHP. This powerful collection of components can be used in part or as a whole to speed up the development process. Zend Framework has the backing of Zend Technologies; the driving force behind the PHP programming language in which it is written. The first production release of the Zend Framework became available in July of 2007.    Zend Framework in Action is a comprehensive tutorial that shows how to use the Zend Framework to create web-based applications and web services. This book takes you on an over-the-shoulder tour of the components of the Zend Framework as you build a high quality, real-world web application. This book is organized around the techniques you'll use every day as a web developer \"data handling, forms, authentication, and so forth. As you follow the running example, you'll learn to build interactive Ajax-driven features into your application without sacrificing nuts-and-bolts considerations like security and performance.  This book is aimed at the competent PHP developer who wants to master framework-driven web development. Zend Framework in Action goes beyond the docs but still provides quick access to the most common topics encountered in the development of web applications.  ",
     "status": "PUBLISH",
     "authors": ["Rob Allen", "Nick Lo", "Steven Brown"],
     "categories": ["Web Development"]
-}, {
+  },
+  {
     "_id": 8,
     "title": "Flex on Java",
     "isbn": "1933988797",
@@ -83,7 +90,8 @@
     "status": "PUBLISH",
     "authors": ["Bernerd Allmon", "Jeremy Anderson"],
     "categories": ["Internet"]
-}, {
+  },
+  {
     "_id": 9,
     "title": "Griffon in Action",
     "isbn": "1935182234",
@@ -94,18 +102,20 @@
     "status": "PUBLISH",
     "authors": ["Andres Almiray", "Danno Ferrin", "", "James Shingler"],
     "categories": ["Java"]
-}, {
+  },
+  {
     "_id": 10,
     "title": "OSGi in Depth",
     "isbn": "193518217X",
-    "pageCount": 325,    
+    "pageCount": 325,
     "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/alves.jpg",
     "shortDescription": "Enterprise OSGi shows a Java developer how to develop to the OSGi Service Platform Enterprise specification, an emerging Java-based technology for developing modular enterprise applications. Enterprise OSGi addresses several shortcomings of existing enterprise platforms, such as allowing the creation of better maintainable and extensible applications, and provide a simpler, easier-to-use, light-weight solution to enterprise software development.",
     "longDescription": "A good application framework greatly simplifies a developer's task by providing reusable code modules that solve common, tedious, or complex tasks. Writing a great framework requires an extraordinary set of skills-ranging from deep knowledge of a programming language and target platform to a crystal-clear view of the problem space where the applications to be developed using the framework will be used.    OSGi Application Frameworks shows a Java developer how to build frameworks based on the OSGi service platform. OSGi, an emerging Java-based technology for developing modular applications, is a great tool for framework building. A framework itself, OSGi allows the developer to create a more intuitive, modular framework by isolating many of the key challenges the framework developer faces.    This book begins by describing the process, principles, and tools you must master to build a custom application framework. It introduces the fundamental concepts of OSGi, and then shows you how to put OSGi to work building various types of frameworks that solve specific development problems.    OSGi is particularly useful for building frameworks that can be easily extended by developers to create domain-specific applications. This book teaches the developer to break down a problem domain into its abstractions and then use OSGi to create a modular framework solution. Along the way, the developer learns software engineering practices intrinsic to framework building that result in systems with better software qualities, such as flexibility, extensibility, and maintainability.    Author Alexandre Alves guides you through major concepts, such as the definition of programming models and modularization techniques, and complements them with samples that have real applicability using industry-proved technologies, such as Spring-DM and Equinox.",
     "status": "PUBLISH",
     "authors": ["Alexandre de Castro Alves"],
     "categories": ["Java"]
-}, {
+  },
+  {
     "_id": 11,
     "title": "Flexible Rails",
     "isbn": "1933988509",
@@ -116,18 +126,20 @@
     "status": "PUBLISH",
     "authors": ["Peter Armstrong"],
     "categories": ["Web Development"]
-}, {
+  },
+  {
     "_id": 13,
     "title": "Hello! Flex 4",
     "isbn": "1933988762",
-    "pageCount": 258,    
+    "pageCount": 258,
     "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/armstrong3.jpg",
     "shortDescription": "Hello! Flex 4 progresses through 26 self-contained examples selected so you can progressively master Flex. They vary from small one-page apps, to a 3D rotating haiku, to a Connect Four-like game. And in the last chapter you'll learn to build a full Flex application called SocialStalkr   a mashup that lets you follow your friends by showing their tweets on a Yahoo map.",
     "longDescription": "With Flex 4 you can easily add color and life to your web applications by introducing dynamic user features, slick transitions, and eye-catching animations. Flex also provides powerful data handling capabilities so you can build industrial-strength applications. And it's open source, so you can get started without forking over a lot of your hard-earned cash.    We think it should be just as much fun to learn Flex as it is to use Flex. Hello! Flex 4 shows you everything you need to know to get started with Flex 4 without bogging you down in obscure detail or academic edge cases. In this entertaining, hands-on book, you'll quickly move from Hello World into the techniques you'll need to use Flex effectively.    You'll start by progressing through 26 self-contained workshop items, which include everything from small one-page examples, to a 3D rotating haiku, to building a Connect Four game. Finally, in the last chapter you'll build a full Flex application called 'SocialStalkr': an interesting mashup of Twitter and Yahoo Maps that lets you 'stalk' your friends by showing specially formatted Twitter tweets on a Yahoo map.",
     "status": "PUBLISH",
     "authors": ["Peter Armstrong"],
     "categories": ["Internet"]
-}, {
+  },
+  {
     "_id": 14,
     "title": "Coffeehouse",
     "isbn": "1884777384",
@@ -138,7 +150,8 @@
     "status": "PUBLISH",
     "authors": ["Levi Asher", "Christian Crumlish"],
     "categories": ["Miscellaneous"]
-}, {
+  },
+  {
     "_id": 15,
     "title": "Team Foundation Server 2008 in Action",
     "isbn": "1933988592",
@@ -148,7 +161,8 @@
     "status": "PUBLISH",
     "authors": ["Jamil Azher"],
     "categories": ["Microsoft .NET"]
-}, {
+  },
+  {
     "_id": 16,
     "title": "Brownfield Application Development in .NET",
     "isbn": "1933988711",
@@ -159,7 +173,8 @@
     "status": "PUBLISH",
     "authors": ["Kyle Baley", "Donald Belcham"],
     "categories": ["Microsoft"]
-}, {
+  },
+  {
     "_id": 17,
     "title": "MongoDB in Action",
     "isbn": "1935182870",
@@ -170,7 +185,8 @@
     "status": "PUBLISH",
     "authors": ["Kyle Banker"],
     "categories": ["Next Generation Databases"]
-}, {
+  },
+  {
     "_id": 18,
     "title": "Distributed Application Development with PowerBuilder 6.0",
     "isbn": "1884777686",
@@ -180,7 +196,8 @@
     "status": "PUBLISH",
     "authors": ["Michael J. Barlotta"],
     "categories": ["PowerBuilder"]
-}, {
+  },
+  {
     "_id": 19,
     "title": "Jaguar Development with PowerBuilder 7",
     "isbn": "1884777864",
@@ -191,7 +208,8 @@
     "status": "PUBLISH",
     "authors": ["Michael Barlotta"],
     "categories": ["PowerBuilder", "Client-Server"]
-}, {
+  },
+  {
     "_id": 20,
     "title": "Taming Jaguar",
     "isbn": "1884777686",
@@ -201,7 +219,8 @@
     "status": "PUBLISH",
     "authors": ["Michael J. Barlotta", "Jason R. Weiss"],
     "categories": ["PowerBuilder"]
-}, {
+  },
+  {
     "_id": 21,
     "title": "3D User Interfaces with Java 3D",
     "isbn": "1884777902",
@@ -211,5 +230,5 @@
     "status": "PUBLISH",
     "authors": ["Jon Barrilleaux"],
     "categories": ["Java", "Computer Graphics"]
-}
+  }
 ]
