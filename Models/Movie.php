@@ -1,6 +1,5 @@
 <?php
 class Movie {
-
     public int $id;
     public string $title;
     public string $cover;
