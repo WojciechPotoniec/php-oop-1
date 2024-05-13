@@ -25,7 +25,6 @@ class Book
         foreach ($datatoArray as $book) {
             $books[] = new Book($book['id'], $book['title'], $book['cover'], $book['rating'], $book['price']);
         }
-        // var_dump($books);
         return $books;
     }
 }

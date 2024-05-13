@@ -23,7 +23,4 @@ class Movie {
        }
        return $movies;
     }
-    public function getPrice() {
-        
-    }
 }
